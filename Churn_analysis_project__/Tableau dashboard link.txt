@@ -1,2 +1,2 @@
 
-https://public.tableau.com/views/Customerschurnanalysis/Levelsonwhichmostplayersfailandquits?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Customerschurnanalysis/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
